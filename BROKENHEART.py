@@ -822,7 +822,7 @@ class Main:
 
 		print(" [E] Exit Programming\n")
 
-		M-ULLAH =input(" Choose  ")
+		M-ULLAH input(" Choose  ")
 
 		if M-ULLAH in ["1", "01"]:
 
